@@ -1,5 +1,8 @@
-Repositorio de React.js ¡Buen día!
+
+¡Buen día!
+
 Bienvenido a mi repositorio de React.js.
+
 En este repositorio encontrarás el código y los proyectos que he desarrollado durante mi proceso de aprendizaje y formación en desarrollo web con React.js.
 En el proyecto he trabajado con:
 •	⚛️ React.js
